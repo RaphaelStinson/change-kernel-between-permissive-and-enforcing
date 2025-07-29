@@ -1,5 +1,9 @@
 # Alterar Status do SELinux (Permissivo/Enforcing)
 
+<p align="center">
+<img alt="Imagem de CriptoApp" width="300px" src="https://imgur.com/a/4b0TICe.png">
+</p>
+
 Este repositório contém um script de shell simples e interativo para alterar o status do SELinux em dispositivos Android entre os modos `Permissive` e `Enforcing` diretamente pelo Termux.
 
 ## 📝 Sobre
